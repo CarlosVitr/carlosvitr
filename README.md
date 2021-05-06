@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Greetings,I am Carlos!</h1>
 
-<!--
-**CarlosVitr/carlosvitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
+  And this is my GitHub!  Where I post some projects, codes and licenses in addition to contributing when I can.<br>I am passionate about programming and therefore builder a community on github called CominfBR, to help developers.
+</samp>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts 📩
+
+<p>
+<a href="https://linkedin.com/in/CarlosVitor"><img src="https://img.shields.io/badge/LinkedIn%20-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/clsvitor"><img src="https://img.shields.io/badge/Twitter%20-00acee.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:carlosv.professional@gmail.com"><img src="https://img.shields.io/badge/Gmail%20-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### Orgs 🏢
+
+- _<a href="https://github.com/Cominfbr"> CominfBR</a>:  This is a Brazilian community created by me for developers brazilians._
+
+---
+
+<details>
+
+<summary>Projects under development :abacus:</summary>
+
+<li> Carlosvitor.ml </li>
+
+</details>
+
+---
+
+<h3> Here are some projects 👇 </h3>
