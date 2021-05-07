@@ -22,14 +22,4 @@
 
 ---
 
-<details>
-
-<summary>Projects under development :abacus:</summary>
-
-<li> Carlosvitor.ml </li>
-
-</details>
-
----
-
-<h3> Here are some projects 👇 </h3>
+<h3> Here are some projects 👇</h3>
