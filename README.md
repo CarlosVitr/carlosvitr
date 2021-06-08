@@ -1,5 +1,5 @@
 <p align="center">
-<a href="http://carlosvitor.ml"><img align="center" src="Imagens/Carlos-terminal.png"></a>
+<a href="http://carlosvitor.ml"><img align="center" src="Images/Logo_carlos.png"></a>
 </p>
 
 ---
