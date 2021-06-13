@@ -1,4 +1,4 @@
-<p align="left" width="90" height="90">
+<p align="center" width="90" height="90">
 <a href="http://carlosvitor.ml"><img align="center" src="Images/Logo_carlos.png"></a>
 </p>
 
