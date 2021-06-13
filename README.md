@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center"> Contacts :postbox: </h3>
+<h3 align="left" width="200" height="200"> Contacts :postbox: </h3>
 <br>
 <p align="center">
 <a href="https://linkedin.com/in/CarlosVitor"><img src="https://img.shields.io/badge/LinkedIn%20-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
