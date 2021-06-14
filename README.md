@@ -3,7 +3,7 @@
 ➢ I'm Projector, student, and I developed applications and software. <br>
 ➢ I was born in <a href="https://maps.app.goo.gl/MDLoTBwknMWH9VcN8"> 𝙏𝙞𝙢𝙤𝙣 </a> in 𝘽𝙧𝙖𝙯𝙞𝙡  🇧🇷.<br>
 ➢ I am creating an information community for my Brazilian compatriots called <a href="https://cominfbr.cf/"> 𝙲𝙾𝙼𝙸𝙽𝙵𝙱𝚁 </a>.<br>
-➢ Ask me anything in my <a href="https://github.com/CarlosVitor/ama">𝘼𝙢𝘼</a> repository.
+➢ Ask me anything in my <a href="https://github.com/CarlosVitr/ama">𝘼𝙢𝘼</a> repository.
 
 <h2 align="center"> ➯ ℂ𝕦𝕣𝕚𝕠𝕤𝕚𝕥𝕚𝕖𝕤: </h2>
 
