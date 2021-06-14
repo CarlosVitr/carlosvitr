@@ -8,7 +8,7 @@
 <h2 align="center"> ➯ ℂ𝕦𝕣𝕚𝕠𝕤𝕚𝕥𝕚𝕖𝕤: </h2>
 
 ➢ I like Hiking 🏃‍♂️;<br>
-➢ Watching Medieval and Fictional Films 💿;<br>
+➢ Watching Medieval and Fictional Films  💿;<br>
 ➢ Unlike most I like wine🍷 not coffee;<br>
 ➢ I'm <a href="https://www.google.com/search?q=jojofag">𝙅𝙤𝙟𝙤𝙁𝙖𝙜</a>: fan of the manga/anime JoJo's Bizarre Adventure.
 
