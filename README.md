@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Greetings,I am Carlos Vítor!</h1>
 
 ➢ I'm Projector, student, and I developed applications and software. <br>
-➢ I was born in <a href="https://maps.app.goo.gl/MDLoTBwknMWH9VcN8"> 𝙏𝙞𝙢𝙤𝙣 </a> in 𝘽𝙧𝙖𝙯𝙞𝙡  🇧🇷.<br>
+➢ I was born in <a href="https://maps.app.goo.gl/MDLoTBwknMWH9VcN8"> 𝙏𝙞𝙢𝙤𝙣 </a> in 𝘽𝙧𝙖𝙯𝙞𝙡  :brazil:.<br>
 ➢ I am creating an information community for my Brazilian compatriots called <a href="https://cominfbr.cf/"> 𝙲𝙾𝙼𝙸𝙽𝙵𝙱𝚁 </a>.<br>
 ➢ Ask me anything in my <a href="https://github.com/CarlosVitr/ama">𝘼𝙢𝘼</a> repository.
 
